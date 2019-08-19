@@ -26,13 +26,18 @@ git fetch --all
      + resolved
      + fixed
 
-4. `git fetch --all` Grab the master branch
+4. Squash commits `git rebase -i <hash or HEAD~2>`  
+   - Use `git log` to find the hash number
+   - `HEAD~#` is the last number of commits
+   - the UI is interactive and help guide you to squashing your commits
 
-5. Attempt to merge the master branch `git merge upstream/master`
+5. `git fetch --all` Grab the master branch
 
-6. `git push`
+6. Attempt to merge the master branch `git merge upstream/master`
 
-7. Make a pull request on github
+7. `git push`
+
+8. Make a pull request on github
 
 For maintainers
 
@@ -43,6 +48,8 @@ Change branches `git checkout <branch name>`
 View branch `git branch`
 View all branches `git branch -a`
 Delete branches `git branch -d <branch name>
+View log `git log`
+View commit `git status`
 
 
 ## Notes 
