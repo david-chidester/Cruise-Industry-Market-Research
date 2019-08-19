@@ -10,3 +10,20 @@ For this Project, we are dividing the work up into two groups:
 Group 1:
 
 Group 2:
+
+
+## Dependencies
+```
+r
+rstudio
+```
+
+### OSX
+``` BASH
+brew cask install rstudio
+brew cask install r
+```
+### R - plugins
+``` R
+install.packages("RSQLite")
+```
