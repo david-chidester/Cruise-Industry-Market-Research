@@ -7,9 +7,9 @@ as oposed to the dos standard (ie: C:\path\to\file.txt) so the r source files ma
 
 For this Project, we are dividing the work up into two groups:
 
-Group 1:
+Machine Learning: Austin Reuter, Austin Richardson Solorizano, Jason Freedman, Jacob Rachal
 
-Group 2:
+Bussiness Inteligence: Sid, Ted Chang, Jacquline Sailer, David Chidester
 
 
 ## Dependencies
