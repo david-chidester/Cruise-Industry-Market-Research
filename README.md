@@ -24,6 +24,7 @@ brew cask install rstudio
 brew cask install r
 ```
 ### R - plugins
+Run these commands in the R interpreter
 ``` R
 install.packages("RSQLite")
 ```
