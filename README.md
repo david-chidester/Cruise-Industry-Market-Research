@@ -23,6 +23,12 @@ rstudio
 brew cask install rstudio
 brew cask install r
 ```
+
+### Debian/Ubuntu
+``` BASH
+sudo apt-get install r-base-core
+```
+
 ### R - plugins
 Run these commands in the R interpreter
 ``` R
