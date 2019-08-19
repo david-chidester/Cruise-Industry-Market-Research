@@ -35,8 +35,10 @@ git fetch --all
 
 6. Attempt to merge the master branch `git merge upstream/master`
 
-7. `git push`
-
+7. `git push` Push it to your git account
+   - If it doesn't exist git will complain and print out a command to run
+   - The command is `git push --set-upstream origin <branch_name>`
+ 
 8. Make a pull request on github
 
 For maintainers
@@ -44,12 +46,12 @@ For maintainers
 
 ## Common git commands
 
-Change branches `git checkout <branch name>`
-View branch `git branch`
-View all branches `git branch -a`
-Delete branches `git branch -d <branch name>
-View log `git log`
-View commit `git status`
+* Change branches `git checkout <branch name>`
+* View branch `git branch`
+* View all branches `git branch -a`
+* Delete branches `git branch -d <branch name>
+* View log `git log`
+* View commit `git status`
 
 
 ## Notes 
