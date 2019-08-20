@@ -85,8 +85,8 @@ install.packages("readxl")
 ```
 
 ### Python - Package
-``` Python
-pip install scipi
-pip install scikitlearn
-pip install pandas
+``` Python3
+pip3 install numpy
+pip3 install scipy
+pip3 install pandas
 ```
