@@ -73,5 +73,6 @@ Run these commands in the R interpreter
 ``` R
 install.packages("RSQLite")
 install.packages("sf")
-install.packages("xlsx") #Might not work
+install.packages("readxl")
+#install.packages("xlsx") #Might not work
 ```
