@@ -3,8 +3,7 @@
 HFO is the current standard for cruise ships.
 IFO380 is also common
 
-## Ship fuel is a dirty sludge
-
+## Prices
 https://www.bunkerindex.com/
 
 Here is a website to grab data
