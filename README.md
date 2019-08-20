@@ -34,6 +34,11 @@ Bussiness Inteligence: Sid, Ted Chang, Jacquline Sailer, David Chidester
 
 * Market information
   - Market Share 2018.csv
+  - Cruise Ship Incidents By Quarter
+     + Disney
+     + Royal Caribbean
+     + Carnival
+     + Celebrity
 
 * Finacials
   - Operating Costs and Expenses.csv
