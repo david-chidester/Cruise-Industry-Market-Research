@@ -11,6 +11,28 @@ Machine Learning: Austin Reuter, Austin Richardson Solorizano, Jason Freedman, J
 
 Bussiness Inteligence: Sid, Ted Chang, Jacquline Sailer, David Chidester
 
+## Categories
+* Port Information
+  - nation_geospatial_agency
+    + world_port_index
+       * GPS data
+       * Port names
+
+* Cruise Information
+  - private_source
+      + carnival_cruise
+
+* Freight Data
+  - US North America TransBorder Freight Data
+     + txt file full of commodities trades
+      
+
+* Fuel Information
+  - energy_information_administration
+     + US residual fuel oil
+        * date vs prices per gallons
+
+
 
 ## Dependencies
 ```
