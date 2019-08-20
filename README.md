@@ -34,5 +34,6 @@ sudo apt-get install r-base-core
 Run these commands in the R interpreter
 ``` R
 install.packages("RSQLite")
+install.packages("sf")
 install.packages("xlsx") #Might not work
 ```
