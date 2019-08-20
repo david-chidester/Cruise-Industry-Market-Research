@@ -22,6 +22,7 @@ rstudio
 ``` BASH
 brew cask install rstudio
 brew cask install r
+brew cask install java #Needed for xlsx
 ```
 
 ### Debian/Ubuntu
@@ -33,4 +34,5 @@ sudo apt-get install r-base-core
 Run these commands in the R interpreter
 ``` R
 install.packages("RSQLite")
+install.packages("xlsx") #Might not work
 ```
