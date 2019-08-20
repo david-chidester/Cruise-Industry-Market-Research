@@ -21,6 +21,8 @@ Bussiness Inteligence: Sid, Ted Chang, Jacquline Sailer, David Chidester
 * Cruise Information
   - private_source
       + carnival_cruise
+  - University of Florida
+      + crew information
 
 * Freight Data
   - US North America TransBorder Freight Data
