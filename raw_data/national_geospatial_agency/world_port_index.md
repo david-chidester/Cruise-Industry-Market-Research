@@ -28,3 +28,5 @@ shape <- read_sf(dsn="path/to/shape.shp", layer="SHAPEFILE")
 
 https://msi.nga.mil/NGAPortal/MSI.portal?_nfpb=true&_pageLabel=msi_portal_page_62&pubCode=0015
 https://msi.nga.mil/MSISiteContent/StaticFiles/NAV_PUBS/WPI/WPI_Archive_Shapefiles.zip
+https://desktop.arcgis.com/en/arcmap/10.3/manage-data/shapefiles/what-is-a-shapefile.htm
+https://cran.r-project.org/web/packages/sf/sf.pdf
