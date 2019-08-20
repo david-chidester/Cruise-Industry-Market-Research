@@ -32,6 +32,17 @@ Bussiness Inteligence: Sid, Ted Chang, Jacquline Sailer, David Chidester
      + US residual fuel oil
         * date vs prices per gallons
 
+* Market information
+  - Market Share 2018.csv
+
+* Finacials
+  - Operating Costs and Expenses.csv
+  - Earnings Per Savings Projections.csv
+  - Quarterly_Financial_Statistics.csv
+
+* Stock information
+  - Future Stock Projections.csv
+
 
 
 ## Dependencies
