@@ -1,6 +1,6 @@
 # Cabin Data - University of Florida
 
-## Avaiable Data
+## Available Data
 ```
 Variables/Columns
 Ship Name     1-20
