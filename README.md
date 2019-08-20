@@ -83,3 +83,10 @@ install.packages("sf")
 install.packages("readxl")
 #install.packages("xlsx") #Might not work
 ```
+
+### Python - Package
+``` Python
+pip install scipi
+pip install scikitlearn
+pip install pandas
+```
