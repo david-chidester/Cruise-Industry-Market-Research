@@ -27,7 +27,7 @@ Bussiness Inteligence: Sid, Ted Chang, Jacquline Sailer, David Chidester
      + txt file full of commodities trades
       
 
-* Fuel Information
+* [Fuel Information](https://github.com/dchid/Neurodiversity_in_the_Workplace_Data_Analysis/blob/master/Fuel.md)
   - energy_information_administration
      + US residual fuel oil
         * date vs prices per gallons
