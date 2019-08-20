@@ -1,4 +1,4 @@
-# Nuerodiversity_in_the_Workplace_Data_Analysis
+# Neurodiversity_in_the_Workplace_Data_Analysis
 A data science project on cruise line for Nuerodiversity in the workplace training
 We will be analysing market research data on cruise lines
 
@@ -34,5 +34,6 @@ sudo apt-get install r-base-core
 Run these commands in the R interpreter
 ``` R
 install.packages("RSQLite")
+install.packages("sf")
 install.packages("xlsx") #Might not work
 ```
