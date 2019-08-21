@@ -7,7 +7,6 @@ northamericacruisedetaildata.csv"), stringsAsFactors=FALSE)
 annualFinance <- read.csv(file.path("raw_data/Annual_Financial_Statistics.csv"))
 quarterlyFinance <- read.csv(file.path("raw_data/Quarterly_Financial_Statistics.csv"))
 
-#primary data set on ship maintainance is very large, so it's split into two files
-shipMaintenance1 <- "raw_data/Ship_Maintainance_1.csv"
-shipMaintenance2 <- "raw_data/Ship_Maintainance_2.csv"
-
+#primary data set on ship maintainance is very large, so it's abridged
+shipMaintenance <- "raw_data/Ship_Maintainance_Abridged.csv"
+MaintenanceDF <- read.csv(file.path(shipMaintenance)
