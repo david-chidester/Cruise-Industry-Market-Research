@@ -78,6 +78,7 @@ Run these commands in the R interpreter
 install.packages("RSQLite")
 install.packages("sf")
 install.packages("readxl")
+install.packages("quantmod")#For some stock visualizations
 #install.packages("xlsx") #Might not work
 ```
 
