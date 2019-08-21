@@ -63,6 +63,7 @@ git push
 * Delete branches `git branch -d <branch name>`
 * View log `git log`
 * View commit `git status`
+* Undo Staging `git reset`
 
 
 ## Notes 
