@@ -1,5 +1,5 @@
 # Neurodiversity_in_the_Workplace_Data_Analysis
-A data science project on cruise line for Nuerodiversity in the workplace training
+This is a data science project on the cruise line industry for Nuerodiversity in the workplace training
 We will be analysing market research data on cruise lines
 
 The file paths to the raw data in this project use the unix standard for file paths (ie: /path/to/file.txt)
