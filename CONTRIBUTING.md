@@ -5,9 +5,9 @@
 
 Make a github user account and fork this repository https://github.com/dchid/Neurodiversity_in_the_Workplace_Data_Analysis.git
 
-```git clone http://github.com/<yourusename>/Neurodiversity_in_the_Workplace_Data_Analysis.git
+```git clone http://github.com/<yourusename>/Cruise-Industry-Market-Research.git
 
-git remote add upstream https://github.com/dchid/Neurodiversity_in_the_Workplace_Data_Analysis.git
+git remote add upstream https://github.com/dchid/Cruise-Industry-Market-Research.git
 
 git fetch --all
 ```
