@@ -7,3 +7,9 @@ quarterlyFinance <- read.csv(file.path("raw_data/Quarterly_Financial_Statistics.
 
 #primary data set on ship maintainance is very large, so it's abridged
 maintenanceDF <- read.csv(file.path("raw_data/Ship_Maintenance_Abridged.csv"))
+
+print(maintenanceDF)
+
+factoryLocations <- maintenanceDF[10]
+customerLocations <- maintenanceDF[16]
+
