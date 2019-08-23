@@ -69,5 +69,5 @@ git push
 
 
 ## TODO
-This guide is not comprehensive, I need to add rebasing.
+This guide is not comprehensive. I need to add rebasing.
 Maintainer guide
