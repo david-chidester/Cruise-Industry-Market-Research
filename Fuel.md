@@ -6,7 +6,7 @@ IFO380 is also common
 ## Prices
 https://www.bunkerindex.com/
 
-Here is a website to grab data
+Here is a website to the grab data
 
 ## Regulation
 
