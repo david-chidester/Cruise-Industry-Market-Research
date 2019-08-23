@@ -1,7 +1,7 @@
 # Neurodiversity_in_the_Workplace_Data_Analysis
 We will be analysing this data science project on the cruise line industry for Nuerodiversity in the workplace training.
 
-For this Project, we are divided the work up into two groups:
+For this project, we are divided the work up into two groups:
 
 Machine Learning: Austin Reuter, Austin Richardson Solorizano, Jason Freedman, Jacob Rachal
 
