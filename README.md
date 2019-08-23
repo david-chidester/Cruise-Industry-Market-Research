@@ -1,5 +1,5 @@
 # Neurodiversity_in_the_Workplace_Data_Analysis
-We will be analyzing this data science project on the cruise line industry for Nuerodiversity in the workplace training.
+We will be analyzing this data science project on the cruise line industry for Neurodiversity in the workplace training.
 
 For this project, we are divided the work up into two groups:
 
