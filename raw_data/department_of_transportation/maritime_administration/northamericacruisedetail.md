@@ -37,9 +37,9 @@ Needs Java
 rJava bugs
 https://github.com/rstudio/rstudio/issues/2254
 
-I could not get rJava working with osx
+I could not get `rjava` working with osx
 
-readxl doesnt seem to work
+`readxl` doesn't seem to work
 
 ## Links
 
