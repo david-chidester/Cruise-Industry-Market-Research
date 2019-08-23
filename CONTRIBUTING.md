@@ -37,7 +37,7 @@ git fetch --all
 7. Attempt to merge the master branch `git merge upstream/master`
 
 8. `git push` Push it to your git account
-   - If it doesn't exist git will complain and print out a command to run
+   - If it doesn't exist, git will complain and print out a command to run
    - The command is `git push --set-upstream origin <branch_name>`
  
 9. Make a pull request on github
