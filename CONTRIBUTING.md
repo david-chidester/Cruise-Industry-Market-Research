@@ -31,7 +31,7 @@ git fetch --all
 5. Squash commits `git rebase -i <hash or HEAD~2>`  
    - Use `git log` to find the hash number
    - `HEAD~#` is the last number of commits
-   - the UI is interactive and help guide you to squashing your commits
+   - The UI is interactive and help guide you to squashing your commits
 
 6. `git fetch --all` Grab the master branch
 
@@ -71,4 +71,4 @@ git push
 
 ## TODO
 This guide is not comprehensive, I need to add rebasing.
-I am going to add maintainer guide soon
+Maintainer guide
