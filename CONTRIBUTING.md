@@ -1,5 +1,4 @@
-# How to contribute github
-
+# Simple guide for new github contributors
 
 ## Prerequistes
 
