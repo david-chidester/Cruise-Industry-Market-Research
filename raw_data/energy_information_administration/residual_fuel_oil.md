@@ -4,7 +4,7 @@ Residual fuel oil:  A general classification for the heavier oils, known as No. 
 
 
 ## Information
-Residual Fuel is not eh fuel type used in cruise ships but it is the precursor to it.
+`Residual Fuel` is the precursor to the fuel type used in cruise ships.
 
 ## Sample
 ```
