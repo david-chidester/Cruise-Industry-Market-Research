@@ -1,17 +1,16 @@
 # Fuel
 
 HFO is the current standard for cruise ships.
-IFO380 is also common
+IFO380 is also common.
 
 ## Prices
 https://www.bunkerindex.com/
 
-Here is a website to the grab data
-
+Website provides IFO 380, IFO 180, and MFO bunker oil.
 ## Regulation
 
 UN International Maritime Organization banned high sulfur fuel. In 2020, sulfur limits
-are .5% in open waters and .1% near 40 miles of the coast
+are .5% in open waters and .1% near 40 miles of the coast.
 
 ## Related articles
 raw_data/department_of_energy/residual_fuel_oil.md
