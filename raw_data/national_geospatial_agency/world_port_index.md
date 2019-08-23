@@ -8,10 +8,11 @@ The World Port Index publication can be downloaded in the following formats:
     Microsoft Access database
     ESRI Arc shapefile 
 
-Specific World Port Index entries can be retrieved from the on-line database using the query form below.
+Specific World Port Index entries can be retrieved from the on-line database using the query below.
 
 ## Type of Data
-GPS Coordinate
+GPS lat and long
+
 3,708 rows
 		
 
